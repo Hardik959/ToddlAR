@@ -4,9 +4,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        navBg: "#FFFD77",
         nav: "#EFE2BA",
         navItems: "#4056A1",
-        alphabetsBg: "#F76C6C",
+        pagesBg: "#73E7E6",
+        headingBg: "#F26666",
       },
       fontFamily: {
         navFont: ['"Patrick Hand"'],
